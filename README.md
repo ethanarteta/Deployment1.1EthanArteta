@@ -70,7 +70,7 @@ Follow these steps to deploy the application:
 14. **Successful Deployment:**  
     Successfully deployed the application onto Elastic Beanstalk.
 
-![image]
+![image](https://github.com/ethanarteta/Deployment1.1EthanArteta/blob/8987a905a1c39f5d3244c687bf5fd8913ce9d975/Deployment%201.1diagram.png)
 
 
-![image]
+![image](https://github.com/ethanarteta/Deployment1.1EthanArteta/blob/8987a905a1c39f5d3244c687bf5fd8913ce9d975/deployment1.1_confirmation.png)
